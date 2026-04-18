@@ -1,8 +1,9 @@
 # 🧠 Algoritmos Faccat - Lógica de Programação em Portugol
 
-## 📌 Sobre o projeto
-
 Este repositório contém a resolução dos exercícios da apostila de "Algoritmos e Programação" do Faccat. O foco aqui é o fortalecimento da lógica de programação pura.
+
+
+## 📌 Sobre o projeto
 
 Este repositório foi criado com o objetivo de **revisitar e fortalecer fundamentos essenciais de programação**, focando em lógica, resolução de problemas e clareza de raciocínio.
 
